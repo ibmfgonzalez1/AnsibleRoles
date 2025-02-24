@@ -1,5 +1,5 @@
 ---
 name: Install My Package
  package:
- name: my_package
- state: present
+  name: my_package
+  state: present
